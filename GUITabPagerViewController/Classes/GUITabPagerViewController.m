@@ -162,7 +162,7 @@
       UILabel *label = [UILabel new];
       [label setText:title];
       [label setTextAlignment:NSTextAlignmentCenter];
-      [label setFont:[UIFont fontWithName:@"HelveticaNeue-Thin" size:20.0f]];
+      [label setFont:[UIFont fontWithName:@"Quark-Bold" size:20.0f]];
       [label sizeToFit];
       
       CGRect frame = [label frame];
